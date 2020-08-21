@@ -5,5 +5,12 @@
     "speedometer-value":776,
       "speedometer-minvalue":0,
         "speedometer-maxvalue":1000    
+  },
+  {
+    "id": 2,
+    "title":"Данные для графика спидометр",
+    "speedometer-value":577,
+      "speedometer-minvalue":0,
+        "speedometer-maxvalue":1000    
   }
 ]
