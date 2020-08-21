@@ -2,33 +2,74 @@
   "speedometer": [
   {
     "id": 1,
-    "title":"Данные для графика спидометр",
+    "title":"Данные 1 для графика спидометр",
     "speedometer-value":776,
       "speedometer-minvalue":0,
         "speedometer-maxvalue":1000    
   },
   {
     "id": 2,
-    "title":"Данные для графика спидометр",
+    "title":"Данные 2 для графика спидометр",
     "speedometer-value":577,
       "speedometer-minvalue":0,
         "speedometer-maxvalue":1000    
   }
 ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+  "pie": [
+  {
+    "id": 1,
+    "title": "Данные 1 для Pie графика",
+    "data": [10, 20, 30],
+    "labels": [
+               "Yellow",
+                "Blue",
+                "Red"
+              ]
+  },
+     {
+    "id": 2,
+    "title": "Данные 2 для Pie графика",
+    "data": [10, 20, 30],
+    "labels": [
+               "Yellow",
+                "Blue",
+                "Red"
+              ]
   }
+  ],
+  "bar": [
+    {
+   "id": 1,
+     "title": "Данные 1 для Bar графика",
+      "labels":[
+              "Янв",
+              "Фев",
+              "Март",
+              "Апр",
+              "Май",
+              "Июнь",
+              "Июль",
+              "Авг",
+              "Сент"
+            ],
+            "data":[796.58, 165, 223, 40.98, 1464.16, 377, 1861.98, 846, 234]
+  },
+     {
+   "id": 2,
+     "title": "Данные 2 для Bar графика",
+      "labels":[
+              "Янв",
+              "Фев",
+              "Март",
+              "Апр",
+              "Май",
+              "Июнь",
+              "Июль",
+              "Авг",
+              "Сент"
+            ],
+            "data":[796.58, 165, 223, 40.98, 1464.16, 377, 1861.98, 846, 234]
+  }
+         ]
 }
 
