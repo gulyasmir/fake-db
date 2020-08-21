@@ -1,18 +1,20 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
+  "speedometer": [
+  {
+    "id": 1,
+    "title":"Данные для графика спидометр",
+    "speedometer-value":776,
+      "speedometer-minvalue":0,
+        "speedometer-maxvalue":1000    
+  },
+  {
+    "id": 2,
+    "title":"Данные для графика спидометр",
+    "speedometer-value":577,
+      "speedometer-minvalue":0,
+        "speedometer-maxvalue":1000    
+  }
+],
   "comments": [
     {
       "id": 1,
