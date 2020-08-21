@@ -3,9 +3,9 @@
   {
     "id": 1,
     "title":"Данные 1 для графика спидометр",
-    "speedometer-value":776,
-      "speedometer-minvalue":0,
-        "speedometer-maxvalue":1000    
+    "value":776,
+      "minvalue":0,
+        "maxvalue":2000    
   },
   {
     "id": 2,
