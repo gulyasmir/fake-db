@@ -74,6 +74,7 @@
      {
    "id": 2,
      "title": "Данные 2 для Bar графика",
+          "backgroundColor:"#FF5500",
       "labels":[
               "Янв",
               "Фев",
