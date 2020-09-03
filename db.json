@@ -41,6 +41,7 @@
     {
    "id": 1,
      "title": "График типа  Bar ",
+      "backgroundColor:"#FF0000",
       "labels":[
               "Янв",
               "Фев",
