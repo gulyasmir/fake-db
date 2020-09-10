@@ -3,9 +3,9 @@
   {
     "id": 1,
     "title":"График типа Спидометр",
-    "value":776,
-      "minvalue":0,
-        "maxvalue":2000    
+    "speedometer-value":776,
+      "speedometer-minvalue":0,
+        "speedometer-maxvalue":2000    
   },
   {
     "id": 2,
